@@ -1,4 +1,4 @@
 <footer>
-  <p>Posted by: De Usikre</p>
+  <p>Posted BY: De Usikre</p>
   <p>Aarhus Erhvervsakademi</p>
 </footer>
